@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+
+
+.Heading {
+    text-align: center;
+    font-size: 5vw;
+    font-family: 'Kanit', sans-serif;
+}
+
+.slogen {
+    color: darkorange;
+    text-align: center;
+    font-size: 4vw;
+    font-family: 'Kanit', sans-serif;
+    margin: 80px;
+}
+
+button {
+    font-size: 4vw;
+    color: darkorange;
+}
+
+img {
+    margin: 10px;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 50px;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+    text-align: center;
+    color: darkorange;
+}
+
+h4{
+    font-size: 2vw;
+    text-align: center;
+}
+
+h5{
+    font-size: 2vw;
+    text-align: center;
+    color: darkolivegreen;
+}
+
+.aboutus {
+    color: black;
+}
+
+.item1 {
+    width: fit-content;
+    height: fit-content;
+    border: 3px solid darkorange;
+    margin: auto;
+}
+.item2 {
+    width: fit-content;
+    height: fit-content;
+    border: 3px solid darkorange;
+    margin: auto;
+}
+.item3 {
+    width: fit-content;
+    height: fit-content;
+    border: 3px solid darkorange;
+    margin: auto;
+}
+.buy {
+    text-align: center;
+}
+.donate {
+    text-align: center;
+}
